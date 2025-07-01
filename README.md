@@ -1,14 +1,41 @@
-# AskMe - Offline Privacy-Centric Voice Assistant
+# AskMe - Educational Voice Assistant for Young Learners
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-AskMe-blue?logo=github)](https://github.com/SunenaB3504/Askme)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://python.org)
+[![Deploy to Replit](https://img.shields.io/badge/Deploy-Replit-orange?logo=replit)](https://replit.com/github/SunenaB3504/Askme)
 
-## 🚀 Quick Links
-- **📁 Repository**: [https://github.com/SunenaB3504/Askme](https://github.com/SunenaB3504/Askme)
-- **📖 Documentation**: [docs/](docs/)
-- **🎯 Quick Start for Nia**: [QUICK_START_NIA.md](QUICK_START_NIA.md)
-- **📋 GitHub Guide**: [docs/github_guide.md](docs/github_guide.md)
+## 🎯 Project Description
+
+**AskMe** is an educational web application designed as a learning companion for **Nia, a 9-year-old student**. This child-friendly assistant helps with CBSE Class 4 English curriculum through interactive conversations, practice questions, and engaging learning activities.
+
+### 🌟 Key Features
+- **📚 Educational Content**: Based on CBSE Class 4 English textbook
+- **🎨 Child-Friendly Interface**: Colorful, engaging design for young learners
+- **💬 Interactive Q&A**: Ask questions about chapters and get helpful answers
+- **🎲 Practice Questions**: 164+ randomly generated questions from curriculum
+- **🔒 Privacy-First**: No data collection, safe for children
+- **🌐 Web-Based**: Accessible from any device with a browser
+
+### 🎓 Educational Value
+- **Reading Comprehension**: Helps understand English literature
+- **Interactive Learning**: Makes studying fun and engaging
+- **Self-Paced**: Students can learn at their own speed
+- **Curriculum Aligned**: Follows CBSE Class 4 English syllabus
+- **Encouraging Responses**: Builds confidence in young learners
+
+## 🚀 Quick Deploy Options
+
+### Deploy to Replit (1-Click)
+1. Click: [![Deploy to Replit](https://img.shields.io/badge/Deploy-Replit-orange?logo=replit)](https://replit.com/github/SunenaB3504/Askme)
+2. Wait for automatic setup
+3. Click "Run" to start the application
+4. Get your public URL instantly!
+
+### Deploy to Railway
+1. Go to [railway.app](https://railway.app)
+2. Connect GitHub and select this repository
+3. Automatic deployment with public URL
 
 ## Project Overview
 

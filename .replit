@@ -1,0 +1,31 @@
+{
+  "name": "Nia's Learning Assistant",
+  "description": "Educational web application for 9-year-old students. Interactive learning companion for CBSE Class 4 English curriculum with practice questions and child-friendly interface.",
+  "language": "python",
+  "main": "nia_launcher.py",
+  "run": "python nia_launcher.py",
+  "install": "pip install -r requirements.txt",
+  "category": "education",
+  "tags": ["education", "learning", "fastapi", "children", "cbse", "interactive", "web-app"],
+  "website": "https://github.com/SunenaB3504/Askme",
+  "author": "SunenaB3504",
+  "version": "1.0.0",
+  "dependencies": {
+    "python": "3.9.18",
+    "fastapi": "latest",
+    "uvicorn": "latest"
+  },
+  "deployment": {
+    "port": 8001,
+    "host": "0.0.0.0",
+    "public": true
+  },
+  "educational_features": {
+    "target_age": "9 years old",
+    "curriculum": "CBSE Class 4 English",
+    "content_type": "Interactive Q&A, Practice Questions",
+    "total_questions": 164,
+    "chapters_covered": 15,
+    "safety": "Child-safe, no data collection"
+  }
+}
