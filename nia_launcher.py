@@ -340,9 +340,13 @@ async def get_questions():
     return questions
 
 if __name__ == "__main__":
+    import os
+    port = int(os.environ.get("PORT", 8001))
+    host = "0.0.0.0" if os.environ.get("RAILWAY_ENVIRONMENT") or os.environ.get("RENDER") else "127.0.0.1"
+    
     print("🎓 Starting Nia's Learning Assistant...")
     print("📚 Loaded training data and questions")
-    print("🌟 Server will be available at: http://localhost:8000")
+    print(f"🌟 Server will be available at: http://{host}:{port}")
     print("💫 Ready to help Nia learn!")
     
-    uvicorn.run(app, host="0.0.0.0", port=8000, log_level="info")
+    uvicorn.run(app, host=host, port=port, log_level="info")
