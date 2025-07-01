@@ -33,25 +33,56 @@ python-multipart==0.0.6
 
 ## Option 2: Render (Free Tier Available)
 
-### Step 1: Create render.yaml
+### Step 1: Manual Deployment Settings
+When creating a new Web Service on Render, use these settings:
+
+**Build Command:**
+```bash
+pip install -r requirements-web.txt
+```
+
+**Start Command:**
+```bash
+python nia_launcher.py
+```
+
+**Alternative Start Command (If Issues):**
+```bash
+uvicorn nia_launcher:app --host 0.0.0.0 --port $PORT
+```
+
+### Step 2: Environment Variables
+Set these in Render dashboard:
+- `PYTHON_VERSION`: `3.11.0`
+
+### Step 3: Deploy
+1. Go to [render.com](https://render.com)
+2. Connect your GitHub account
+3. Select your repository: `SunenaB3504/Askme`
+4. Choose "Web Service"
+5. Use the settings above
+6. Click "Create Web Service"
+
+### Step 4: Alternative - Using render.yaml (Automatic)
+The render.yaml file is configured for lightweight web deployment:
+
 ```yaml
 services:
   - type: web
     name: nia-learning-assistant
     env: python
-    buildCommand: "pip install -r requirements.txt"
+    buildCommand: "pip install -r requirements-web.txt"
     startCommand: "python nia_launcher.py"
     envVars:
       - key: PYTHON_VERSION
-        value: 3.9.18
+        value: 3.11.0
 ```
 
-### Step 2: Deploy
-1. Go to [render.com](https://render.com)
-2. Connect your GitHub account
-3. Select your repository
-4. Choose "Web Service"
-5. Use the settings above
+### Why Use requirements-web.txt?
+- ✅ **Lightweight**: Only web dependencies (FastAPI, Uvicorn)
+- ✅ **Fast Build**: No heavy AI/ML libraries
+- ✅ **Compatible**: Works with Python 3.11+
+- ✅ **Cost Effective**: Uses minimal resources
 
 ## Option 3: Heroku (Paid but Reliable)
 
