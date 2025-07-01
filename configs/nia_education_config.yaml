@@ -1,0 +1,67 @@
+# Nia's Educational Assistant Configuration
+
+# Assistant Configuration
+assistant:
+  name: "Nia's Learning Helper"
+  personality: "friendly, encouraging, patient"
+  age_target: 9
+  grade_level: "4th grade"
+  
+# Model Configuration  
+models:
+  llm:
+    model_path: "./models/nia-educational-assistant"
+    max_tokens: 256
+    temperature: 0.7
+    system_prompt: "You are Nia's helpful learning assistant. Always explain things in simple, encouraging words for a 9-year-old. Be patient, positive, and make learning fun."
+  
+  asr:
+    model: "whisper-base"
+    language: "en"
+    
+  tts:
+    model: "tts_models/en/ljspeech/tacotron2-DDC"
+    voice_settings:
+      speed: 0.9  # Slightly slower for better comprehension
+      pitch: 1.1  # Slightly higher for friendlier tone
+
+# Educational Features
+education:
+  subjects:
+    - "Science"
+    - "Math" 
+    - "Reading"
+    - "Social Studies"
+    - "Writing"
+  
+  question_types:
+    - "multiple_choice"
+    - "fill_in_blank"
+    - "true_false" 
+    - "short_answer"
+  
+  difficulty_level: "elementary"
+  max_questions_per_session: 5
+  encouragement_frequency: "every_interaction"
+
+# Content Processing
+content:
+  reading_level: "grade_4"
+  max_summary_length: 150
+  key_points_limit: 5
+  vocabulary_level: "elementary"
+
+# Privacy Settings (Important for child safety)
+privacy:
+  data_retention: "session_only"
+  external_connections: false
+  logging_level: "minimal"
+  parental_oversight: true
+
+# Web Interface Settings
+web_interface:
+  theme: "child_friendly"
+  font_size: "large"
+  colors: "bright_and_cheerful" 
+  simplified_layout: true
+  parental_controls: true

@@ -1,0 +1,40 @@
+{
+  "total_chapters": 15,
+  "total_questions": 164,
+  "processed_files": [
+    "CBSE-4-English-Chapter  1-The River bank.pdf",
+    "CBSE-4-English-Chapter 10 - A strange case.pdf",
+    "CBSE-4-English-Chapter 11 - Thomas Alva Edison.pdf",
+    "CBSE-4-English-Chapter 12 - Global Warming.pdf",
+    "CBSE-4-English-Chapter 13 - An Indian Train Journey.pdf",
+    "CBSE-4-English-Chapter 14 - Dances of India.pdf",
+    "CBSE-4-English-Chapter 15 - Androcles and the lion.pdf",
+    "CBSE-4-English-Chapter 2 - The champa flower.pdf",
+    "CBSE-4-English-Chapter 3- The way animal talk.pdf",
+    "CBSE-4-English-Chapter 4 - How I taught my grandmother to read.pdf",
+    "CBSE-4-English-Chapter 5 - How the Little Kite Learned to Fly.pdf",
+    "CBSE-4-English-Chapter 6 - Wonderful Kalam.pdf",
+    "CBSE-4-English-Chapter 7 - Barvo Amir Agha.pdf",
+    "CBSE-4-English-Chapter 8 - These simple things.pdf",
+    "CBSE-4-English-Chapter 9 - Latomatina.pdf"
+  ],
+  "training_examples": 195,
+  "output_directory": "data\\nia_english",
+  "chapter_titles": [
+    "Introduction - CBSE-4-English-Chapter  1-The River bank",
+    "Introduction - CBSE-4-English-Chapter 10 - A strange case",
+    "Introduction - CBSE-4-English-Chapter 11 - Thomas Alva Edison",
+    "Introduction - CBSE-4-English-Chapter 12 - Global Warming",
+    "Introduction - CBSE-4-English-Chapter 13 - An Indian Train Journey",
+    "Introduction - CBSE-4-English-Chapter 14 - Dances of India",
+    "Introduction - CBSE-4-English-Chapter 15 - Androcles and the lion",
+    "Introduction - CBSE-4-English-Chapter 2 - The champa flower",
+    "Introduction - CBSE-4-English-Chapter 3- The way animal talk",
+    "Introduction - CBSE-4-English-Chapter 4 - How I taught my grandmother to read",
+    "Introduction - CBSE-4-English-Chapter 5 - How the Little Kite Learned to Fly",
+    "Introduction - CBSE-4-English-Chapter 6 - Wonderful Kalam",
+    "Introduction - CBSE-4-English-Chapter 7 - Barvo Amir Agha",
+    "Introduction - CBSE-4-English-Chapter 8 - These simple things",
+    "Introduction - CBSE-4-English-Chapter 9 - Latomatina"
+  ]
+}

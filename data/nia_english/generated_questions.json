@@ -1,0 +1,1303 @@
+{
+  "Introduction - CBSE-4-English-Chapter  1-The River bank": {
+    "chapter": "Introduction - CBSE-4-English-Chapter  1-The River bank",
+    "multiple_choice": [
+      {
+        "question": "What is Mole?",
+        "choices": [
+          "Mole happens before Wood.",
+          "Mole is used only by Wild.",
+          "Mole is the same as Water.",
+          "The Mole went on a holiday to a place where you met people very different from you"
+        ],
+        "correct_answer": "The Mole went on a holiday to a place where you met people very different from you",
+        "explanation": "The correct answer tells us what Mole really means."
+      },
+      {
+        "question": "What is Water?",
+        "choices": [
+          "Water is used only by Wild.",
+          "Water is the same as Mole.",
+          "Water Rat and Mole met at the side of a river",
+          "Water happens before Wood."
+        ],
+        "correct_answer": "Water Rat and Mole met at the side of a river",
+        "explanation": "The correct answer tells us what Water really means."
+      }
+    ],
+    "fill_in_blank": [
+      {
+        "question": "Fill in the blank: The Mole went on a ____ to a place where you met people very different from you",
+        "answer": "holiday",
+        "hint": "This word starts with 'h' and has 7 letters.",
+        "sentence": "The Mole went on a holiday to a place where you met people very different from you"
+      },
+      {
+        "question": "Fill in the blank: ____ Rat and Mole met at the side of a river",
+        "answer": "Water",
+        "hint": "This word starts with 'W' and has 5 letters.",
+        "sentence": "Water Rat and Mole met at the side of a river"
+      },
+      {
+        "question": "Fill in the blank: The ____ Rat asked the Mole if he would like to come in his boat",
+        "answer": "Water",
+        "hint": "This word starts with 'W' and has 5 letters.",
+        "sentence": "The Water Rat asked the Mole if he would like to come in his boat"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "The Mole said he had never been in a boat before",
+        "answer": true,
+        "explanation": "This statement is true based on what we learned in the chapter."
+      },
+      {
+        "statement": "It is not true that the mole said he had never been in a boat before",
+        "answer": false,
+        "explanation": "This statement contains incorrect information."
+      },
+      {
+        "statement": "The Mole went on a holiday to a place where you met people very different from you",
+        "answer": true,
+        "explanation": "This statement is true based on what we learned in the chapter."
+      },
+      {
+        "statement": "It is not true that the mole went on a holiday to a place where you met people very different from you",
+        "answer": false,
+        "explanation": "This statement contains incorrect information."
+      }
+    ],
+    "short_answer": [
+      {
+        "question": "Can you describe what Mole means?",
+        "sample_answer": "Mole is an important concept that helps us understand...",
+        "keywords": [
+          "mole"
+        ],
+        "hint": "Think about what Mole does or why it matters."
+      },
+      {
+        "question": "Can you describe what Water means?",
+        "sample_answer": "Water is an important concept that helps us understand...",
+        "keywords": [
+          "water"
+        ],
+        "hint": "Think about what Water does or why it matters."
+      }
+    ]
+  },
+  "Introduction - CBSE-4-English-Chapter 10 - A strange case": {
+    "chapter": "Introduction - CBSE-4-English-Chapter 10 - A strange case",
+    "multiple_choice": [
+      {
+        "question": "What is Have?",
+        "choices": [
+          "Have is used only by Jekyll.",
+          "Have is the same as There.",
+          "Have happens before Case.",
+          "Cold-blooded murders by a strange creature in an Englisl1 town have 1nade headlines"
+        ],
+        "correct_answer": "Cold-blooded murders by a strange creature in an Englisl1 town have 1nade headlines",
+        "explanation": "The correct answer tells us what Have really means."
+      },
+      {
+        "question": "What is Jekyll?",
+        "choices": [
+          "Jekyll happens before Case.",
+          "Jekyll is the same as Have.",
+          "Your colleague, Dr Henry Jekyll, insisted nme to come here on a very urgent business",
+          "Jekyll is used only by There."
+        ],
+        "correct_answer": "Your colleague, Dr Henry Jekyll, insisted nme to come here on a very urgent business",
+        "explanation": "The correct answer tells us what Jekyll really means."
+      }
+    ],
+    "fill_in_blank": [
+      {
+        "question": "Fill in the blank: ____ murders by a strange creature in an Englisl1 town have 1nade headlines",
+        "answer": "Coldblooded",
+        "hint": "This word starts with 'C' and has 11 letters.",
+        "sentence": "Cold-blooded murders by a strange creature in an Englisl1 town have 1nade headlines"
+      },
+      {
+        "question": "Fill in the blank: ____ has ay clue about the true identity of this monstrous being",
+        "answer": "Nobody",
+        "hint": "This word starts with 'N' and has 6 letters.",
+        "sentence": "Nobody has ay clue about the true identity of this monstrous being"
+      },
+      {
+        "question": "Fill in the blank: Read on to find the ____ unravelling",
+        "answer": "mystery",
+        "hint": "This word starts with 'm' and has 7 letters.",
+        "sentence": "Read on to find the mystery unravelling"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Cold-blooded murders by a strange creature in an Englisl1 town have 1nade headlines",
+        "answer": true,
+        "explanation": "This statement is true based on what we learned in the chapter."
+      },
+      {
+        "statement": "It is not true that cold-blooded murders by a strange creature in an englisl1 town have 1nade headlines",
+        "answer": false,
+        "explanation": "This statement contains incorrect information."
+      },
+      {
+        "statement": "Nobody has ay clue about the true identity of this monstrous being",
+        "answer": true,
+        "explanation": "This statement is true based on what we learned in the chapter."
+      },
+      {
+        "statement": "It is not true that nobody has ay clue about the true identity of this monstrous being",
+        "answer": false,
+        "explanation": "This statement contains incorrect information."
+      }
+    ],
+    "short_answer": [
+      {
+        "question": "What is Have and why is it important?",
+        "sample_answer": "Have is an important concept that helps us understand...",
+        "keywords": [
+          "have"
+        ],
+        "hint": "Think about what Have does or why it matters."
+      },
+      {
+        "question": "What is There and why is it important?",
+        "sample_answer": "There is an important concept that helps us understand...",
+        "keywords": [
+          "there"
+        ],
+        "hint": "Think about what There does or why it matters."
+      }
+    ]
+  },
+  "Introduction - CBSE-4-English-Chapter 11 - Thomas Alva Edison": {
+    "chapter": "Introduction - CBSE-4-English-Chapter 11 - Thomas Alva Edison",
+    "multiple_choice": [
+      {
+        "question": "What is Edison?",
+        "choices": [
+          "Edison happens before With.",
+          "Thomas Alva Edison invented the phonograph, electric light and super storage battery",
+          "Edison is the same as Thomas.",
+          "Edison is used only by Alva."
+        ],
+        "correct_answer": "Thomas Alva Edison invented the phonograph, electric light and super storage battery",
+        "explanation": "The correct answer tells us what Edison really means."
+      },
+      {
+        "question": "What is Thomas?",
+        "choices": [
+          "Thomas happens before With.",
+          "Thomas Alva Edison invented the phonograph, electric light and super storage battery",
+          "Thomas is the same as Edison.",
+          "Thomas is used only by Alva."
+        ],
+        "correct_answer": "Thomas Alva Edison invented the phonograph, electric light and super storage battery",
+        "explanation": "The correct answer tells us what Thomas really means."
+      },
+      {
+        "question": "What is Alva?",
+        "choices": [
+          "Alva happens before With.",
+          "Alva is used only by Thomas.",
+          "Alva is the same as Edison.",
+          "Thomas Alva Edison invented the phonograph, electric light and super storage battery"
+        ],
+        "correct_answer": "Thomas Alva Edison invented the phonograph, electric light and super storage battery",
+        "explanation": "The correct answer tells us what Alva really means."
+      }
+    ],
+    "fill_in_blank": [
+      {
+        "question": "Fill in the blank: ____ Alva Edison invented the phonograph, electric light and super storage battery",
+        "answer": "Thomas",
+        "hint": "This word starts with 'T' and has 6 letters.",
+        "sentence": "Thomas Alva Edison invented the phonograph, electric light and super storage battery"
+      },
+      {
+        "question": "Fill in the blank: Name five ____ inventions that you think have changed the way we live",
+        "answer": "other",
+        "hint": "This word starts with 'o' and has 5 letters.",
+        "sentence": "Name five other inventions that you think have changed the way we live"
+      },
+      {
+        "question": "Fill in the blank: ____ laughed at the way Edison concentrated",
+        "answer": "People",
+        "hint": "This word starts with 'P' and has 6 letters.",
+        "sentence": "People laughed at the way Edison concentrated"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Thomas Alva Edison invented the phonograph, electric light and super storage battery",
+        "answer": true,
+        "explanation": "This statement is true based on what we learned in the chapter."
+      },
+      {
+        "statement": "It is not true that thomas alva edison invented the phonograph, electric light and super storage battery",
+        "answer": false,
+        "explanation": "This statement contains incorrect information."
+      },
+      {
+        "statement": "Name five other inventions that you think have changed the way we live",
+        "answer": true,
+        "explanation": "This statement is true based on what we learned in the chapter."
+      },
+      {
+        "statement": "It is not true that name five other inventions that you think have changed the way we live",
+        "answer": false,
+        "explanation": "This statement contains incorrect information."
+      }
+    ],
+    "short_answer": [
+      {
+        "question": "How would you explain Edison to a friend?",
+        "sample_answer": "Edison is an important concept that helps us understand...",
+        "keywords": [
+          "edison"
+        ],
+        "hint": "Think about what Edison does or why it matters."
+      },
+      {
+        "question": "Can you describe what Thomas means?",
+        "sample_answer": "Thomas is an important concept that helps us understand...",
+        "keywords": [
+          "thomas"
+        ],
+        "hint": "Think about what Thomas does or why it matters."
+      }
+    ]
+  },
+  "Introduction - CBSE-4-English-Chapter 12 - Global Warming": {
+    "chapter": "Introduction - CBSE-4-English-Chapter 12 - Global Warming",
+    "multiple_choice": [
+      {
+        "question": "What is Earth?",
+        "choices": [
+          "Earth happens before There.",
+          "Earth is the same as Global.",
+          "Global warming is the gradual process of heating up of the Earth's environment",
+          "Earth is used only by Climate."
+        ],
+        "correct_answer": "Global warming is the gradual process of heating up of the Earth's environment",
+        "explanation": "The correct answer tells us what Earth really means."
+      },
+      {
+        "question": "What is Global?",
+        "choices": [
+          "Global warming is the gradual process of heating up of the Earth's environment",
+          "Global is the same as Earth.",
+          "Global is used only by Climate.",
+          "Global happens before There."
+        ],
+        "correct_answer": "Global warming is the gradual process of heating up of the Earth's environment",
+        "explanation": "The correct answer tells us what Global really means."
+      },
+      {
+        "question": "What is Climate?",
+        "choices": [
+          "Climate change is also responsible for the frequent occurrence of natural calamities like flood and drought",
+          "Climate is the same as Earth.",
+          "Climate is used only by Global.",
+          "Climate happens before There."
+        ],
+        "correct_answer": "Climate change is also responsible for the frequent occurrence of natural calamities like flood and drought",
+        "explanation": "The correct answer tells us what Climate really means."
+      }
+    ],
+    "fill_in_blank": [
+      {
+        "question": "Fill in the blank: ____ warming is the gradual process of heating up of the Earth's environment",
+        "answer": "Global",
+        "hint": "This word starts with 'G' and has 6 letters.",
+        "sentence": "Global warming is the gradual process of heating up of the Earth's environment"
+      },
+      {
+        "question": "Fill in the blank: The most ____ agents are the greenhouse gases",
+        "answer": "important",
+        "hint": "This word starts with 'i' and has 9 letters.",
+        "sentence": "The most important agents are the greenhouse gases"
+      },
+      {
+        "question": "Fill in the blank: ____ gases are created by both natural processes and human activities",
+        "answer": "These",
+        "hint": "This word starts with 'T' and has 5 letters.",
+        "sentence": "These gases are created by both natural processes and human activities"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "The most important agents are the greenhouse gases",
+        "answer": true,
+        "explanation": "This statement is true based on what we learned in the chapter."
+      },
+      {
+        "statement": "The most important agents are not the greenhouse gases",
+        "answer": false,
+        "explanation": "This statement contains incorrect information."
+      },
+      {
+        "statement": "Global warming is the gradual process of heating up of the Earth's environment",
+        "answer": true,
+        "explanation": "This statement is true based on what we learned in the chapter."
+      },
+      {
+        "statement": "Global warming is not the gradual process of heating up of the Earth's environment",
+        "answer": false,
+        "explanation": "This statement contains incorrect information."
+      }
+    ],
+    "short_answer": [
+      {
+        "question": "How would you explain Earth to a friend?",
+        "sample_answer": "Earth is an important concept that helps us understand...",
+        "keywords": [
+          "earth"
+        ],
+        "hint": "Think about what Earth does or why it matters."
+      },
+      {
+        "question": "Why should we learn about Global?",
+        "sample_answer": "Global is an important concept that helps us understand...",
+        "keywords": [
+          "global"
+        ],
+        "hint": "Think about what Global does or why it matters."
+      }
+    ]
+  },
+  "Introduction - CBSE-4-English-Chapter 13 - An Indian Train Journey": {
+    "chapter": "Introduction - CBSE-4-English-Chapter 13 - An Indian Train Journey",
+    "multiple_choice": [
+      {
+        "question": "What is Fogg?",
+        "choices": [
+          "Fogg happens before Passepartout.",
+          "Phileas Fogg wager that he could travel around the world in eighty days",
+          "Fogg is the same as Francis.",
+          "Fogg is used only by Indian."
+        ],
+        "correct_answer": "Phileas Fogg wager that he could travel around the world in eighty days",
+        "explanation": "The correct answer tells us what Fogg really means."
+      },
+      {
+        "question": "What is Indian?",
+        "choices": [
+          "Indian is used only by Fogg.",
+          "The train stopped at Burhampoor to buy some Indian slippers",
+          "Indian is the same as Francis.",
+          "Indian happens before Passepartout."
+        ],
+        "correct_answer": "The train stopped at Burhampoor to buy some Indian slippers",
+        "explanation": "The correct answer tells us what Indian really means."
+      }
+    ],
+    "fill_in_blank": [
+      {
+        "question": "Fill in the blank: ____ Fogg wager that he could travel around the world in eighty days",
+        "answer": "Phileas",
+        "hint": "This word starts with 'P' and has 7 letters.",
+        "sentence": "Phileas Fogg wager that he could travel around the world in eighty days"
+      },
+      {
+        "question": "Fill in the blank: He ____ it a waste of time and money",
+        "answer": "thought",
+        "hint": "This word starts with 't' and has 7 letters.",
+        "sentence": "He thought it a waste of time and money"
+      },
+      {
+        "question": "Fill in the blank: All ____ and technological developments are born from an idea",
+        "answer": "scientific",
+        "hint": "This word starts with 's' and has 10 letters.",
+        "sentence": "All scientific and technological developments are born from an idea"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Phileas Fogg wager that he could travel around the world in eighty days",
+        "answer": true,
+        "explanation": "This statement is true based on what we learned in the chapter."
+      },
+      {
+        "statement": "It is not true that phileas fogg wager that he could travel around the world in eighty days",
+        "answer": false,
+        "explanation": "This statement contains incorrect information."
+      },
+      {
+        "statement": "He thought it a waste of time and money",
+        "answer": true,
+        "explanation": "This statement is true based on what we learned in the chapter."
+      },
+      {
+        "statement": "It is not true that he thought it a waste of time and money",
+        "answer": false,
+        "explanation": "This statement contains incorrect information."
+      }
+    ],
+    "short_answer": [
+      {
+        "question": "Why should we learn about Francis?",
+        "sample_answer": "Francis is an important concept that helps us understand...",
+        "keywords": [
+          "francis"
+        ],
+        "hint": "Think about what Francis does or why it matters."
+      },
+      {
+        "question": "Can you describe what Fogg means?",
+        "sample_answer": "Fogg is an important concept that helps us understand...",
+        "keywords": [
+          "fogg"
+        ],
+        "hint": "Think about what Fogg does or why it matters."
+      }
+    ]
+  },
+  "Introduction - CBSE-4-English-Chapter 14 - Dances of India": {
+    "chapter": "Introduction - CBSE-4-English-Chapter 14 - Dances of India",
+    "multiple_choice": [
+      {
+        "question": "What is India?",
+        "choices": [
+          "India is the same as Indian.",
+          "India is famous for its rich tradition of dance and music",
+          "India happens before Kerala.",
+          "India is used only by Kathakali."
+        ],
+        "correct_answer": "India is famous for its rich tradition of dance and music",
+        "explanation": "The correct answer tells us what India really means."
+      },
+      {
+        "question": "What is Kathakali?",
+        "choices": [
+          "The most famous ones are: Bhangra (Punjab) Dandiya (Gujarat) Bihu (Assam) Cheraw (Mizoram) Ghoomar (Rajasthan) Chholiya (Uttarakhand) Kathakali is the traditional storytelling dance form of Kerala",
+          "Kathakali is used only by Indian.",
+          "Kathakali happens before Kerala.",
+          "Kathakali is the same as India."
+        ],
+        "correct_answer": "The most famous ones are: Bhangra (Punjab) Dandiya (Gujarat) Bihu (Assam) Cheraw (Mizoram) Ghoomar (Rajasthan) Chholiya (Uttarakhand) Kathakali is the traditional storytelling dance form of Kerala",
+        "explanation": "The correct answer tells us what Kathakali really means."
+      }
+    ],
+    "fill_in_blank": [
+      {
+        "question": "Fill in the blank: ____ is famous for its rich tradition of dance and music",
+        "answer": "India",
+        "hint": "This word starts with 'I' and has 5 letters.",
+        "sentence": "India is famous for its rich tradition of dance and music"
+      },
+      {
+        "question": "Fill in the blank: There are two ____ of dance forms in India: folk and classical",
+        "answer": "types",
+        "hint": "This word starts with 't' and has 5 letters.",
+        "sentence": "There are two types of dance forms in India: folk and classical"
+      },
+      {
+        "question": "Fill in the blank: Folk ____ are very spontaneous and leave enough room for dancers to improvise",
+        "answer": "dances",
+        "hint": "This word starts with 'd' and has 6 letters.",
+        "sentence": "Folk dances are very spontaneous and leave enough room for dancers to improvise"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "India is famous for its rich tradition of dance and music",
+        "answer": true,
+        "explanation": "This statement is true based on what we learned in the chapter."
+      },
+      {
+        "statement": "India is not famous for its rich tradition of dance and music",
+        "answer": false,
+        "explanation": "This statement contains incorrect information."
+      },
+      {
+        "statement": "There are two types of dance forms in India: folk and classical",
+        "answer": true,
+        "explanation": "This statement is true based on what we learned in the chapter."
+      },
+      {
+        "statement": "There are not two types of dance forms in India: folk and classical",
+        "answer": false,
+        "explanation": "This statement contains incorrect information."
+      }
+    ],
+    "short_answer": [
+      {
+        "question": "How would you explain India to a friend?",
+        "sample_answer": "India is an important concept that helps us understand...",
+        "keywords": [
+          "india"
+        ],
+        "hint": "Think about what India does or why it matters."
+      },
+      {
+        "question": "Can you describe what Indian means?",
+        "sample_answer": "Indian is an important concept that helps us understand...",
+        "keywords": [
+          "indian"
+        ],
+        "hint": "Think about what Indian does or why it matters."
+      }
+    ]
+  },
+  "Introduction - CBSE-4-English-Chapter 15 - Androcles and the lion": {
+    "chapter": "Introduction - CBSE-4-English-Chapter 15 - Androcles and the lion",
+    "multiple_choice": [
+      {
+        "question": "What is Androcles?",
+        "choices": [
+          "Androcles is used only by Emperor.",
+          "Androcles, a slave Master (A field) s Characters: Benedictus, a fellow slave Emperor Guards",
+          "Androcles happens before Scene.",
+          "Androcles is the same as ANDROCLES."
+        ],
+        "correct_answer": "Androcles, a slave Master (A field) s Characters: Benedictus, a fellow slave Emperor Guards",
+        "explanation": "The correct answer tells us what Androcles really means."
+      },
+      {
+        "question": "What is ANDROCLES?",
+        "choices": [
+          "ANDROCLES is the same as Androcles.",
+          "Androcles, a slave Master (A field) s Characters: Benedictus, a fellow slave Emperor Guards",
+          "ANDROCLES is used only by Emperor.",
+          "ANDROCLES happens before Scene."
+        ],
+        "correct_answer": "Androcles, a slave Master (A field) s Characters: Benedictus, a fellow slave Emperor Guards",
+        "explanation": "The correct answer tells us what ANDROCLES really means."
+      },
+      {
+        "question": "What is Emperor?",
+        "choices": [
+          "Emperor happens before Scene.",
+          "Emperor is the same as Androcles.",
+          "Androcles, a slave Master (A field) s Characters: Benedictus, a fellow slave Emperor Guards",
+          "Emperor is used only by ANDROCLES."
+        ],
+        "correct_answer": "Androcles, a slave Master (A field) s Characters: Benedictus, a fellow slave Emperor Guards",
+        "explanation": "The correct answer tells us what Emperor really means."
+      }
+    ],
+    "fill_in_blank": [
+      {
+        "question": "Fill in the blank: ____ a slave Master (A field) s Characters: Benedictus, a fellow slave Emperor Guards",
+        "answer": "Androcles",
+        "hint": "This word starts with 'A' and has 9 letters.",
+        "sentence": "Androcles, a slave Master (A field) s Characters: Benedictus, a fellow slave Emperor Guards"
+      },
+      {
+        "question": "Fill in the blank: List two ____ when you have helped someone and felt good about it",
+        "answer": "instances",
+        "hint": "This word starts with 'i' and has 9 letters.",
+        "sentence": "List two instances when you have helped someone and felt good about it"
+      },
+      {
+        "question": "Fill in the blank: There is a huge ____ sticking out of its paw",
+        "answer": "thorn",
+        "hint": "This word starts with 't' and has 5 letters.",
+        "sentence": "There is a huge thorn sticking out of its paw"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Androcles, a slave Master (A field) s Characters: Benedictus, a fellow slave Emperor Guards",
+        "answer": true,
+        "explanation": "This statement is true based on what we learned in the chapter."
+      },
+      {
+        "statement": "It is not true that androcles, a slave master (a field) s characters: benedictus, a fellow slave emperor guards",
+        "answer": false,
+        "explanation": "This statement contains incorrect information."
+      },
+      {
+        "statement": "List two instances when you have helped someone and felt good about it",
+        "answer": true,
+        "explanation": "This statement is true based on what we learned in the chapter."
+      },
+      {
+        "statement": "List two instances when you have helped someone and felt bad about it",
+        "answer": false,
+        "explanation": "This statement contains incorrect information."
+      }
+    ],
+    "short_answer": [
+      {
+        "question": "How would you explain Androcles to a friend?",
+        "sample_answer": "Androcles is an important concept that helps us understand...",
+        "keywords": [
+          "androcles"
+        ],
+        "hint": "Think about what Androcles does or why it matters."
+      },
+      {
+        "question": "How would you explain ANDROCLES to a friend?",
+        "sample_answer": "ANDROCLES is an important concept that helps us understand...",
+        "keywords": [
+          "androcles"
+        ],
+        "hint": "Think about what ANDROCLES does or why it matters."
+      }
+    ]
+  },
+  "Introduction - CBSE-4-English-Chapter 2 - The champa flower": {
+    "chapter": "Introduction - CBSE-4-English-Chapter 2 - The champa flower",
+    "multiple_choice": [
+      {
+        "question": "What is Work?",
+        "choices": [
+          "Work in groups of four",
+          "Work is used only by Ramayana.",
+          "Work happens before Read.",
+          "Work is the same as Discuss."
+        ],
+        "correct_answer": "Work in groups of four",
+        "explanation": "The correct answer tells us what Work really means."
+      },
+      {
+        "question": "What is Discuss?",
+        "choices": [
+          "Discuss the different pranks you have played on your parents",
+          "Discuss happens before Read.",
+          "Discuss is used only by Ramayana.",
+          "Discuss is the same as Work."
+        ],
+        "correct_answer": "Discuss the different pranks you have played on your parents",
+        "explanation": "The correct answer tells us what Discuss really means."
+      }
+    ],
+    "fill_in_blank": [
+      {
+        "question": "Fill in the blank: ____ of at least two such instances",
+        "answer": "Think",
+        "hint": "This word starts with 'T' and has 5 letters.",
+        "sentence": "Think of at least two such instances"
+      },
+      {
+        "question": "Fill in the blank: ____ the different pranks you have played on your parents",
+        "answer": "Discuss",
+        "hint": "This word starts with 'D' and has 7 letters.",
+        "sentence": "Discuss the different pranks you have played on your parents"
+      },
+      {
+        "question": "Fill in the blank: ____ Tagore's poem ComprehEnsíon is about a cowshed",
+        "answer": "Rabindranath",
+        "hint": "This word starts with 'R' and has 12 letters.",
+        "sentence": "Rabindranath Tagore's poem ComprehEnsíon is about a cowshed"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Think of at least two such instances",
+        "answer": true,
+        "explanation": "This statement is true based on what we learned in the chapter."
+      },
+      {
+        "statement": "It is not true that think of at least two such instances",
+        "answer": false,
+        "explanation": "This statement contains incorrect information."
+      },
+      {
+        "statement": "Discuss the different pranks you have played on your parents",
+        "answer": true,
+        "explanation": "This statement is true based on what we learned in the chapter."
+      },
+      {
+        "statement": "It is not true that discuss the different pranks you have played on your parents",
+        "answer": false,
+        "explanation": "This statement contains incorrect information."
+      }
+    ],
+    "short_answer": [
+      {
+        "question": "Can you describe what Work means?",
+        "sample_answer": "Work is an important concept that helps us understand...",
+        "keywords": [
+          "work"
+        ],
+        "hint": "Think about what Work does or why it matters."
+      },
+      {
+        "question": "Why should we learn about Discuss?",
+        "sample_answer": "Discuss is an important concept that helps us understand...",
+        "keywords": [
+          "discuss"
+        ],
+        "hint": "Think about what Discuss does or why it matters."
+      }
+    ]
+  },
+  "Introduction - CBSE-4-English-Chapter 3- The way animal talk": {
+    "chapter": "Introduction - CBSE-4-English-Chapter 3- The way animal talk",
+    "multiple_choice": [
+      {
+        "question": "What is Animals?",
+        "choices": [
+          "Animals happens before Discuss.",
+          "Animals is used only by Earth.",
+          "Animals is the same as They.",
+          "Animals use their body movements"
+        ],
+        "correct_answer": "Animals use their body movements",
+        "explanation": "The correct answer tells us what Animals really means."
+      },
+      {
+        "question": "What is They?",
+        "choices": [
+          "They happens before Discuss.",
+          "They is used only by Earth.",
+          "They is the same as Animals.",
+          "They use scents to show their readiness to reproduce"
+        ],
+        "correct_answer": "They use scents to show their readiness to reproduce",
+        "explanation": "The correct answer tells us what They really means."
+      }
+    ],
+    "fill_in_blank": [
+      {
+        "question": "Fill in the blank: ____ sense of hearing and smell to receive and transmit information to each other",
+        "answer": "their",
+        "hint": "This word starts with 't' and has 5 letters.",
+        "sentence": "their sense of hearing and smell to receive and transmit information to each other"
+      },
+      {
+        "question": "Fill in the blank: ____ and body movements are the most ommon ways of communicating among animals",
+        "answer": "Gestures",
+        "hint": "This word starts with 'G' and has 8 letters.",
+        "sentence": "Gestures and body movements are the most ommon ways of communicating among animals"
+      },
+      {
+        "question": "Fill in the blank: ____ also use a range of sounds to communicate",
+        "answer": "Animals",
+        "hint": "This word starts with 'A' and has 7 letters.",
+        "sentence": "Animals also use a range of sounds to communicate"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "Vocal communication is essential for many important tasks",
+        "answer": true,
+        "explanation": "This statement is true based on what we learned in the chapter."
+      },
+      {
+        "statement": "Vocal communication is not essential for many important tasks",
+        "answer": false,
+        "explanation": "This statement contains incorrect information."
+      },
+      {
+        "statement": "Animals communicate by sound because it can travel over long distances",
+        "answer": true,
+        "explanation": "This statement is true based on what we learned in the chapter."
+      },
+      {
+        "statement": "Animals communicate by sound because it cannot travel over long distances",
+        "answer": false,
+        "explanation": "This statement contains incorrect information."
+      }
+    ],
+    "short_answer": [
+      {
+        "question": "Why should we learn about Animals?",
+        "sample_answer": "Animals is an important concept that helps us understand...",
+        "keywords": [
+          "animals"
+        ],
+        "hint": "Think about what Animals does or why it matters."
+      },
+      {
+        "question": "How would you explain They to a friend?",
+        "sample_answer": "They is an important concept that helps us understand...",
+        "keywords": [
+          "they"
+        ],
+        "hint": "Think about what They does or why it matters."
+      }
+    ]
+  },
+  "Introduction - CBSE-4-English-Chapter 4 - How I taught my grandmother to read": {
+    "chapter": "Introduction - CBSE-4-English-Chapter 4 - How I taught my grandmother to read",
+    "multiple_choice": [
+      {
+        "question": "What is Avva?",
+        "choices": [
+          "Avva means mother in the Kannada spoken in north Karnataka",
+          "Avva is the same as Kashi.",
+          "Avva is used only by Yatre.",
+          "Avva happens before Later."
+        ],
+        "correct_answer": "Avva means mother in the Kannada spoken in north Karnataka",
+        "explanation": "The correct answer tells us what Avva really means."
+      },
+      {
+        "question": "What is Kashi?",
+        "choices": [
+          "Kashi is used only by Yatre.",
+          "Kashi happens before Later.",
+          "and I would read the next episode of the story Kashi Yatre to her",
+          "Kashi is the same as Avva."
+        ],
+        "correct_answer": "and I would read the next episode of the story Kashi Yatre to her",
+        "explanation": "The correct answer tells us what Kashi really means."
+      },
+      {
+        "question": "What is Yatre?",
+        "choices": [
+          "and I would read the next episode of the story Kashi Yatre to her",
+          "Yatre happens before Later.",
+          "Yatre is used only by Kashi.",
+          "Yatre is the same as Avva."
+        ],
+        "correct_answer": "and I would read the next episode of the story Kashi Yatre to her",
+        "explanation": "The correct answer tells us what Yatre really means."
+      }
+    ],
+    "fill_in_blank": [
+      {
+        "question": "Fill in the blank: My ____ Krishtakka, never went to school, SO she could not read",
+        "answer": "grandmother",
+        "hint": "This word starts with 'g' and has 11 letters.",
+        "sentence": "My grandmother, Krishtakka, never went to school, SO she could not read"
+      },
+      {
+        "question": "Fill in the blank: and I ____ read the next episode of the story Kashi Yatre to her",
+        "answer": "would",
+        "hint": "This word starts with 'w' and has 5 letters.",
+        "sentence": "and I would read the next episode of the story Kashi Yatre to her"
+      },
+      {
+        "question": "Fill in the blank: ____ that time, she would forget all her work and listen with the greatest concentration",
+        "answer": "During",
+        "hint": "This word starts with 'D' and has 6 letters.",
+        "sentence": "During that time, she would forget all her work and listen with the greatest concentration"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "My grandmother, Krishtakka, never went to school, SO she could not read",
+        "answer": true,
+        "explanation": "This statement is true based on what we learned in the chapter."
+      },
+      {
+        "statement": "It is not true that my grandmother, krishtakka, never went to school, so she could not read",
+        "answer": false,
+        "explanation": "This statement contains incorrect information."
+      },
+      {
+        "statement": "people never considered education essential for girls",
+        "answer": true,
+        "explanation": "This statement is true based on what we learned in the chapter."
+      },
+      {
+        "statement": "It is not true that people never considered education essential for girls",
+        "answer": false,
+        "explanation": "This statement contains incorrect information."
+      }
+    ],
+    "short_answer": [
+      {
+        "question": "What is Avva and why is it important?",
+        "sample_answer": "Avva is an important concept that helps us understand...",
+        "keywords": [
+          "avva"
+        ],
+        "hint": "Think about what Avva does or why it matters."
+      },
+      {
+        "question": "Why should we learn about Kashi?",
+        "sample_answer": "Kashi is an important concept that helps us understand...",
+        "keywords": [
+          "kashi"
+        ],
+        "hint": "Think about what Kashi does or why it matters."
+      }
+    ]
+  },
+  "Introduction - CBSE-4-English-Chapter 5 - How the Little Kite Learned to Fly": {
+    "chapter": "Introduction - CBSE-4-English-Chapter 5 - How the Little Kite Learned to Fly",
+    "multiple_choice": [],
+    "fill_in_blank": [
+      {
+        "question": "Fill in the blank: 'I know I ____ fall if I tried to fly,' the little kité said",
+        "answer": "should",
+        "hint": "This word starts with 's' and has 6 letters.",
+        "sentence": "'I know I should fall if I tried to fly,' the little kité said"
+      },
+      {
+        "question": "Fill in the blank: 'only try! Or I fear you ____ will learn at all' 'Oh",
+        "answer": "never",
+        "hint": "This word starts with 'n' and has 5 letters.",
+        "sentence": "'only try! Or I fear you never will learn at all' 'Oh"
+      },
+      {
+        "question": "Fill in the blank: And all ____ I was brave and tried",
+        "answer": "because",
+        "hint": "This word starts with 'b' and has 7 letters.",
+        "sentence": "And all because I was brave and tried"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "'only try! Or I fear you never will learn at all' 'Oh",
+        "answer": true,
+        "explanation": "This statement is true based on what we learned in the chapter."
+      },
+      {
+        "statement": "'only try! Or I fear you never will not learn at all' 'Oh",
+        "answer": false,
+        "explanation": "This statement contains incorrect information."
+      },
+      {
+        "statement": "And all because I was brave and tried",
+        "answer": true,
+        "explanation": "This statement is true based on what we learned in the chapter."
+      },
+      {
+        "statement": "It is not true that and all because i was brave and tried",
+        "answer": false,
+        "explanation": "This statement contains incorrect information."
+      }
+    ],
+    "short_answer": [
+      {
+        "question": "How would you explain Then to a friend?",
+        "sample_answer": "Then is an important concept that helps us understand...",
+        "keywords": [
+          "then"
+        ],
+        "hint": "Think about what Then does or why it matters."
+      },
+      {
+        "question": "How would you explain Discuss to a friend?",
+        "sample_answer": "Discuss is an important concept that helps us understand...",
+        "keywords": [
+          "discuss"
+        ],
+        "hint": "Think about what Discuss does or why it matters."
+      }
+    ]
+  },
+  "Introduction - CBSE-4-English-Chapter 6 - Wonderful Kalam": {
+    "chapter": "Introduction - CBSE-4-English-Chapter 6 - Wonderful Kalam",
+    "multiple_choice": [
+      {
+        "question": "What is Kalam?",
+        "choices": [
+          "Kalam happens before India.",
+          "Kalam is used only by Indias.",
+          "Kalam is the same as Abdul.",
+          "Dr AP Abdul Kalam was a scientist and India's eleventh President"
+        ],
+        "correct_answer": "Dr AP Abdul Kalam was a scientist and India's eleventh President",
+        "explanation": "The correct answer tells us what Kalam really means."
+      },
+      {
+        "question": "What is Abdul?",
+        "choices": [
+          "Dr AP Abdul Kalam was a scientist and India's eleventh President",
+          "Abdul happens before India.",
+          "Abdul is the same as Kalam.",
+          "Abdul is used only by Indias."
+        ],
+        "correct_answer": "Dr AP Abdul Kalam was a scientist and India's eleventh President",
+        "explanation": "The correct answer tells us what Abdul really means."
+      }
+    ],
+    "fill_in_blank": [
+      {
+        "question": "Fill in the blank: Dr AP ____ Kalam was a scientist and India's eleventh President",
+        "answer": "Abdul",
+        "hint": "This word starts with 'A' and has 5 letters.",
+        "sentence": "Dr AP Abdul Kalam was a scientist and India's eleventh President"
+      },
+      {
+        "question": "Fill in the blank: He was a ____ of India's missile and nuclear Weaporns programmes",
+        "answer": "pioneer",
+        "hint": "This word starts with 'p' and has 7 letters.",
+        "sentence": "He was a pioneer of India's missile and nuclear Weaporns programmes"
+      },
+      {
+        "question": "Fill in the blank: He will ____ be remembered as the Missile Man of India",
+        "answer": "always",
+        "hint": "This word starts with 'a' and has 6 letters.",
+        "sentence": "He will always be remembered as the Missile Man of India"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "He will always be remembered as the Missile Man of India",
+        "answer": true,
+        "explanation": "This statement is true based on what we learned in the chapter."
+      },
+      {
+        "statement": "He will not always be remembered as the Missile Man of India",
+        "answer": false,
+        "explanation": "This statement contains incorrect information."
+      },
+      {
+        "statement": "He also played a key role in the Pokhran nuclear tests of 1998",
+        "answer": true,
+        "explanation": "This statement is true based on what we learned in the chapter."
+      },
+      {
+        "statement": "It is not true that he also played a key role in the pokhran nuclear tests of 1998",
+        "answer": false,
+        "explanation": "This statement contains incorrect information."
+      }
+    ],
+    "short_answer": [
+      {
+        "question": "Can you describe what Kalam means?",
+        "sample_answer": "Kalam is an important concept that helps us understand...",
+        "keywords": [
+          "kalam"
+        ],
+        "hint": "Think about what Kalam does or why it matters."
+      },
+      {
+        "question": "What is Abdul and why is it important?",
+        "sample_answer": "Abdul is an important concept that helps us understand...",
+        "keywords": [
+          "abdul"
+        ],
+        "hint": "Think about what Abdul does or why it matters."
+      }
+    ]
+  },
+  "Introduction - CBSE-4-English-Chapter 7 - Barvo Amir Agha": {
+    "chapter": "Introduction - CBSE-4-English-Chapter 7 - Barvo Amir Agha",
+    "multiple_choice": [
+      {
+        "question": "What is Hassan?",
+        "choices": [
+          "Hassan is the same as Bravo.",
+          "Hassan is used only by Amir.",
+          "Hassan happens before Discuss.",
+          "Hassan's blue kite sliced a big purple one and swept twice in big loops"
+        ],
+        "correct_answer": "Hassan's blue kite sliced a big purple one and swept twice in big loops",
+        "explanation": "The correct answer tells us what Hassan really means."
+      },
+      {
+        "question": "What is Amir?",
+        "choices": [
+          "Amir is used only by Bravo.",
+          "Amir happens before Discuss.",
+          "Amir is the same as Hassan.",
+          "Amir Aghal was one of the last dozen kite runners in the competition"
+        ],
+        "correct_answer": "Amir Aghal was one of the last dozen kite runners in the competition",
+        "explanation": "The correct answer tells us what Amir really means."
+      }
+    ],
+    "fill_in_blank": [
+      {
+        "question": "Fill in the blank: Amir ____ was one of the last dozen kite runners in the competition",
+        "answer": "Aghal",
+        "hint": "This word starts with 'A' and has 5 letters.",
+        "sentence": "Amir Aghal was one of the last dozen kite runners in the competition"
+      },
+      {
+        "question": "Fill in the blank: He had to cut his ____ to keep his kite flying",
+        "answer": "finger",
+        "hint": "This word starts with 'f' and has 6 letters.",
+        "sentence": "He had to cut his finger to keep his kite flying"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "After another thirty minutes, only four kites remained",
+        "answer": true,
+        "explanation": "This statement is true based on what we learned in the chapter."
+      },
+      {
+        "statement": "It is not true that after another thirty minutes, only four kites remained",
+        "answer": false,
+        "explanation": "This statement contains incorrect information."
+      },
+      {
+        "statement": "Amir Aghal was one of the last dozen kite runners in the competition",
+        "answer": true,
+        "explanation": "This statement is true based on what we learned in the chapter."
+      },
+      {
+        "statement": "It is not true that amir aghal was one of the last dozen kite runners in the competition",
+        "answer": false,
+        "explanation": "This statement contains incorrect information."
+      }
+    ],
+    "short_answer": [
+      {
+        "question": "Why should we learn about Hassan?",
+        "sample_answer": "Hassan is an important concept that helps us understand...",
+        "keywords": [
+          "hassan"
+        ],
+        "hint": "Think about what Hassan does or why it matters."
+      },
+      {
+        "question": "Can you describe what Bravo means?",
+        "sample_answer": "Bravo is an important concept that helps us understand...",
+        "keywords": [
+          "bravo"
+        ],
+        "hint": "Think about what Bravo does or why it matters."
+      }
+    ]
+  },
+  "Introduction - CBSE-4-English-Chapter 8 - These simple things": {
+    "chapter": "Introduction - CBSE-4-English-Chapter 8 - These simple things",
+    "multiple_choice": [
+      {
+        "question": "What is These?",
+        "choices": [
+          "These is something you eat.",
+          "These is a type of animal.",
+          "These is a place you visit.",
+          "These simple things in life are best"
+        ],
+        "correct_answer": "These simple things in life are best",
+        "explanation": "The correct answer tells us what These really means."
+      }
+    ],
+    "fill_in_blank": [
+      {
+        "question": "Fill in the blank: ____ simple things in life are best",
+        "answer": "These",
+        "hint": "This word starts with 'T' and has 5 letters.",
+        "sentence": "These simple things in life are best"
+      },
+      {
+        "question": "Fill in the blank: Tell the ____ about the thing you like doing the most and why",
+        "answer": "class",
+        "hint": "This word starts with 'c' and has 5 letters.",
+        "sentence": "Tell the class about the thing you like doing the most and why"
+      },
+      {
+        "question": "Fill in the blank: Note how many ____ like doing same thing as you do",
+        "answer": "classmates",
+        "hint": "This word starts with 'c' and has 10 letters.",
+        "sentence": "Note how many classmates like doing same thing as you do"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "These simple things in life are best",
+        "answer": true,
+        "explanation": "This statement is true based on what we learned in the chapter."
+      },
+      {
+        "statement": "These simple things in life are not best",
+        "answer": false,
+        "explanation": "This statement contains incorrect information."
+      },
+      {
+        "statement": "Tell the class about the thing you like doing the most and why",
+        "answer": true,
+        "explanation": "This statement is true based on what we learned in the chapter."
+      },
+      {
+        "statement": "It is not true that tell the class about the thing you like doing the most and why",
+        "answer": false,
+        "explanation": "This statement contains incorrect information."
+      }
+    ],
+    "short_answer": [
+      {
+        "question": "What is These and why is it important?",
+        "sample_answer": "These is an important concept that helps us understand...",
+        "keywords": [
+          "these"
+        ],
+        "hint": "Think about what These does or why it matters."
+      }
+    ]
+  },
+  "Introduction - CBSE-4-English-Chapter 9 - Latomatina": {
+    "chapter": "Introduction - CBSE-4-English-Chapter 9 - Latomatina",
+    "multiple_choice": [
+      {
+        "question": "What is Tomatina?",
+        "choices": [
+          "Tomatina is used only by Holi.",
+          "La Tomatina is an annual festival held in Buñol, a small town in Spain",
+          "Tomatina is the same as Participants.",
+          "Tomatina happens before Buñol."
+        ],
+        "correct_answer": "La Tomatina is an annual festival held in Buñol, a small town in Spain",
+        "explanation": "The correct answer tells us what Tomatina really means."
+      },
+      {
+        "question": "What is Participants?",
+        "choices": [
+          "Participants get one hour to unleash their inner child and engage in the biggest food fight in the world",
+          "Participants is the same as Tomatina.",
+          "Participants happens before Buñol.",
+          "Participants is used only by Holi."
+        ],
+        "correct_answer": "Participants get one hour to unleash their inner child and engage in the biggest food fight in the world",
+        "explanation": "The correct answer tells us what Participants really means."
+      }
+    ],
+    "fill_in_blank": [
+      {
+        "question": "Fill in the blank: La ____ is an annual festival held in Buñol, a small town in Spain",
+        "answer": "Tomatina",
+        "hint": "This word starts with 'T' and has 8 letters.",
+        "sentence": "La Tomatina is an annual festival held in Buñol, a small town in Spain"
+      },
+      {
+        "question": "Fill in the blank: ____ get one hour to unleash their inner child and engage in the biggest food fight in the world",
+        "answer": "Participants",
+        "hint": "This word starts with 'P' and has 12 letters.",
+        "sentence": "Participants get one hour to unleash their inner child and engage in the biggest food fight in the world"
+      },
+      {
+        "question": "Fill in the blank: ____ 1,50,000 tomatoes are used in La Tomatina",
+        "answer": "Around",
+        "hint": "This word starts with 'A' and has 6 letters.",
+        "sentence": "Around 1,50,000 tomatoes are used in La Tomatina"
+      }
+    ],
+    "true_false": [
+      {
+        "statement": "La Tomatina is an annual festival held in Buñol, a small town in Spain",
+        "answer": true,
+        "explanation": "This statement is true based on what we learned in the chapter."
+      },
+      {
+        "statement": "La Tomatina is not an annual festival held in Buñol, a small town in Spain",
+        "answer": false,
+        "explanation": "This statement contains incorrect information."
+      },
+      {
+        "statement": "Participants get one hour to unleash their inner child and engage in the biggest food fight in the world",
+        "answer": true,
+        "explanation": "This statement is true based on what we learned in the chapter."
+      },
+      {
+        "statement": "It is not true that participants get one hour to unleash their inner child and engage in the biggest food fight in the world",
+        "answer": false,
+        "explanation": "This statement contains incorrect information."
+      }
+    ],
+    "short_answer": [
+      {
+        "question": "How would you explain Tomatina to a friend?",
+        "sample_answer": "Tomatina is an important concept that helps us understand...",
+        "keywords": [
+          "tomatina"
+        ],
+        "hint": "Think about what Tomatina does or why it matters."
+      },
+      {
+        "question": "How would you explain Participants to a friend?",
+        "sample_answer": "Participants is an important concept that helps us understand...",
+        "keywords": [
+          "participants"
+        ],
+        "hint": "Think about what Participants does or why it matters."
+      }
+    ]
+  }
+}
