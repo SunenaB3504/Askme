@@ -1,0 +1,103 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Audio files (too large for Git)
+*.wav
+*.mp3
+*.flac
+*.ogg
+audio_temp/
+temp_audio/
+
+# Model files (too large for Git)
+models/
+*.bin
+*.gguf
+*.onnx
+*.pt
+*.pth
+
+# Temporary files
+temp/
+tmp/
+*.tmp
+
+# Sensitive data
+secrets/
+private/
+api_keys.txt
+.env.local
+
+# Large data files
+*.pdf
+*.zip
+*.tar.gz
+
+# User-specific files
+user_data/
+personal/
+
+# Cache
+.cache/
+*.cache
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Windows
+desktop.ini
+$RECYCLE.BIN/
+
+# Test outputs
+test_outputs/
+output/

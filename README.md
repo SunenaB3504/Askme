@@ -1,5 +1,15 @@
 # AskMe - Offline Privacy-Centric Voice Assistant
 
+[![GitHub Repository](https://img.shields.io/badge/GitHub-AskMe-blue?logo=github)](https://github.com/SunenaB3504/Askme)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://python.org)
+
+## 🚀 Quick Links
+- **📁 Repository**: [https://github.com/SunenaB3504/Askme](https://github.com/SunenaB3504/Askme)
+- **📖 Documentation**: [docs/](docs/)
+- **🎯 Quick Start for Nia**: [QUICK_START_NIA.md](QUICK_START_NIA.md)
+- **📋 GitHub Guide**: [docs/github_guide.md](docs/github_guide.md)
+
 ## Project Overview
 
 AskMe is a fully offline, privacy-centric voice assistant that leverages a custom-made Large Language Model (LLM) to provide intelligent conversational interaction without compromising user privacy. This system operates entirely on local hardware, ensuring that user data never leaves the device.
